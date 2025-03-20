@@ -1,0 +1,4 @@
+Shortest path from Akka to Hebron: 
+
+Shortest distance in Dijkstra algorithms: 223 km
+Shortest distance in BFS algorithms: 226 km
