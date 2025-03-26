@@ -37,10 +37,8 @@ City Route Planner is a C-based program that calculates the shortest path betwee
  The program stores cities and their connections as a graph.
 
  The user enters two cities, and the system calculates the shortest path using:
-
-    Dijkstra’s Algorithm for weighted shortest path.
-
-    BFS for unweighted shortest path.
+   - Dijkstra’s Algorithm for weighted shortest path.
+   - BFS for unweighted shortest path.
 
  The computed path and distance are displayed to the user.
 
